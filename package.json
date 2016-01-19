@@ -1,0 +1,21 @@
+{
+  "name": "pomegranate-sequelize-pg",
+  "version": "0.0.0",
+  "description": "Loads Postgres support into the Pomegranate framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim <monstertke@paperelectron.com> (http://paperelectron.com/)",
+  "license": "MIT",
+  "keywords": [
+    "Pomegranate",
+    "Database"
+  ],
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "pg": "^4.4.3",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^3.14.2"
+  }
+}
