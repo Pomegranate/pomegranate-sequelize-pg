@@ -25,10 +25,10 @@ exports.options = {
 }
 
 exports.metadata = {
-  "name" : "Postgres",
-  "layer": "data",
-  "inject": "SQL",
-  "type": 'service'
+  name: 'Postgres',
+  layer: 'data',
+  param: 'SQL',
+  type: 'service'
 }
 
 exports.plugin = {
