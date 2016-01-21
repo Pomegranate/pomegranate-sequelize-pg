@@ -1,6 +1,6 @@
 {
   "name": "pomegranate-sequelize-pg",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Loads Postgres support into the Pomegranate framework.",
   "main": "index.js",
   "scripts": {
