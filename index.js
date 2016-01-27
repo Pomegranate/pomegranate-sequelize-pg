@@ -95,3 +95,10 @@ exports.plugin = {
       return done()
     }
 };
+
+exports.errors = {
+  ValidationError: Sequelize.ValidationError,
+  UniqueConstraintError: Sequelize.UniqueConstraintError,
+  ExclusionConstraintError: Sequelize.ExclusionConstraintError,
+  ForeignKeyConstraintError: Sequelize.ForeignKeyConstraintError
+}
