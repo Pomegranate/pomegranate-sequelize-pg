@@ -15,7 +15,9 @@
   "keywords": [
     "Pomegranate",
     "Plugin",
-    "Database"
+    "SQL",
+    "Database",
+    "Postgres"
   ],
   "dependencies": {
     "magnum-plugin-utils": "^1.2.0",
