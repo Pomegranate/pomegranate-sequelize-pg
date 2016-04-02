@@ -9,7 +9,8 @@
   "author": "Jim <jim.b@paperelectron.com> (http://paperelectron.com/)",
   "license": "MIT",
   "files": [
-    "index.js"
+    "index.js",
+    "plugins/"
   ],
   "keywords": [
     "Pomegranate",
