@@ -17,10 +17,11 @@
     "Database"
   ],
   "dependencies": {
-    "lodash": "^3.10.1",
+    "magnum-plugin-utils": "^1.2.0",
     "pg": "^4.4.3",
     "pg-hstore": "^2.3.2",
-    "sequelize": "^3.19.2"
+    "pomegranate-sequelize-core": "0.0.1",
+    "sequelize": "^3.20.0"
   },
   "devDependencies": {},
   "repository": {
