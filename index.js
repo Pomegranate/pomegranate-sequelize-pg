@@ -5,10 +5,6 @@
  * @license MIT {@link http://opensource.org/licenses/MIT}
  */
 
-var fs = require('fs');
-var _ = require('lodash');
-var path = require('path');
-var Sequelize = require('sequelize');
 /**
  *
  * @module index
