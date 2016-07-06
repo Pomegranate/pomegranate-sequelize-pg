@@ -8,7 +8,9 @@
 'use strict';
 var path = require('path');
 
-var FileList = require('magnum-plugin-utils').fileList;
+var PluginUtils = require('magnum-plugin-utils')
+
+var FileList = PluginUtils.fileList;
 var FileBaseName = require('magnum-plugin-utils').fileBaseName;
 var _ = require('magnum-plugin-utils').lodash
 /**
@@ -28,9 +30,9 @@ exports.options = {
 
 exports.metadata = {
   name: 'Postgres',
-  layer: 'data',
   param: 'SQL',
-  type: 'merge'
+  type: 'merge',
+  depends: ['Sequelize']
 }
 
 exports.plugin = {
