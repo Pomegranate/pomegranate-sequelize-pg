@@ -23,7 +23,7 @@
     "magnum-plugin-utils": "^1.2.0",
     "pg": "^4.4.3",
     "pg-hstore": "^2.3.2",
-    "pomegranate-sequelize-core": "^1.0.0"
+    "pomegranate-sequelize-core": "^2.0.0"
   },
   "devDependencies": {},
   "repository": {
