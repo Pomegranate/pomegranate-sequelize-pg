@@ -29,10 +29,10 @@ exports.options = {
 }
 
 exports.metadata = {
-  name: 'Postgres',
+  name: 'SequelizePg',
   param: 'SQL',
   type: 'merge',
-  depends: ['Sequelize']
+  depends: ['SequelizeCore']
 }
 
 exports.plugin = {
