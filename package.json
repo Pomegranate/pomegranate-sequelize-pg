@@ -21,7 +21,7 @@
   ],
   "dependencies": {
     "magnum-plugin-utils": "^1.2.0",
-    "pg": "^7.4.0",
+    "pg": "^6.4.2",
     "pg-hstore": "2.3.2",
     "pomegranate-sequelize-core": "^3.0.0"
   },
