@@ -1,6 +1,6 @@
 {
   "name": "pomegranate-sequelize-pg",
-  "version": "3.0.1",
+  "version": "2.0.3",
   "description": "Loads Postgres support into the Pomegranate framework.",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "magnum-plugin-utils": "^1.2.0",
     "pg": "^6.4.2",
     "pg-hstore": "2.3.2",
-    "pomegranate-sequelize-core": "^3.0.0"
+    "pomegranate-sequelize-core": "^2.1.1"
   },
   "devDependencies": {},
   "repository": {
